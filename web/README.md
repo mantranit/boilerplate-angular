@@ -1,3 +1,14 @@
+
+## Update
+
+Run `ng update @angular/cli`
+
+Run `ng update @angular/core`
+
+Run `ng update rxjs`
+
+---
+
 # Web
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
